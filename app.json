@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Frisco Restaurant Search",
+    "slug": "frisco-restaurant-search",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.png",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.pranav8888.frisco_restaurant_search"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

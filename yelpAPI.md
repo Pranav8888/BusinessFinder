@@ -1,0 +1,5 @@
+Client ID:
+LdujlUwPufCyjdgSeDzSwA
+
+API Key:
+pxOq96VPFSRf2uFUqYiZ9YAAL9KKHlfM2trMcBdrUJTpREYUTfLJZ-WJJf4artR9jI-eaujfA53wmOh1kEp70hNihnBVMrnzt_cIitLPcMxx4-1VIoFH9xlbW95ZYXY
